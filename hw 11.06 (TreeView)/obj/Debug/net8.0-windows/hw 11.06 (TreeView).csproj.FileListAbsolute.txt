@@ -1,0 +1,17 @@
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\bin\Debug\net8.0-windows\hw 11.06 (TreeView).exe
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\bin\Debug\net8.0-windows\hw 11.06 (TreeView).deps.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\bin\Debug\net8.0-windows\hw 11.06 (TreeView).runtimeconfig.json
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\bin\Debug\net8.0-windows\hw 11.06 (TreeView).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\bin\Debug\net8.0-windows\hw 11.06 (TreeView).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).csproj.AssemblyReference.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw_11._06__TreeView_.Form1.resources
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).csproj.GenerateResource.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).GeneratedMSBuildEditorConfig.editorconfig
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).AssemblyInfoInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).AssemblyInfo.cs
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).csproj.CoreCompileInputs.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\refint\hw 11.06 (TreeView).dll
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).pdb
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\hw 11.06 (TreeView).genruntimeconfig.cache
+E:\Приложения\VisualStudio\Проэкты\ШАГ\WinForms\hw 11.06 (TreeView)\hw 11.06 (TreeView)\obj\Debug\net8.0-windows\ref\hw 11.06 (TreeView).dll
